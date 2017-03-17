@@ -1,0 +1,6 @@
+4 4
+3 0 east 5 1 25 1 1 1 1
+FF xx xx xx
+FF xx xx xx
+TT xx xx xx
+FF FF FF FF

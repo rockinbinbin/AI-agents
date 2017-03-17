@@ -1,0 +1,6 @@
+4 4
+0 1 north 10 1 100 1 1 1 1
+TT FT TT TF
+xx TF FF xx
+xx TF FF xx
+xx FF FF TT
